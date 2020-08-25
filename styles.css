@@ -4,5 +4,17 @@ html {
 }
 
 body {
-    background-image: linear-gradient(#fff, #96c9ff);
+    background-image: linear-gradient(#fff, #fffeeb);
+}
+
+.header-container{
+    display: flex; 
+    justify-content: center;
+}
+
+.header {
+    font-family: 'Javanese Text';
+    font-size: 90px;
+    color: #bdbaae;
+    -webkit-text-stroke: 0.2px #000;
 }
