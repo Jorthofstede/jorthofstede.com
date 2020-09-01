@@ -17,15 +17,15 @@ body {
 }
 
 .header {
-    font-family: 'Nirmala UI';
-    font-size: 90px;
-    color: #302f25;
+    font-family: Sylfaen;
+    font-size: 100px;
+    color: #808080;
     -webkit-text-stroke: 0.2px #000;
 }
 
 
 .intro-text{
-    font-family: 'Franklin Gothic';
+    font-family: Candara;
     font-size: 15px;
 }
 
